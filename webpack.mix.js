@@ -17,5 +17,8 @@ mix.js([
     'resources/js/app.js',
     'resources/js/main.js'
 ], 'public/js/app.js')
-    .styles(['resources/css/bootstrap.css', 'resources/css/datatables.css', 'resources/css/iconos.css'], 'public/css/app.css');
+    .styles(['resources/css/bootstrap.css',
+    'resources/css/datatables.css',
+    'resources/css/iconos.css'],
+    'public/css/app.css');
 
